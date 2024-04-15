@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P00360795\\source\\repos\\Organization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrgDatabase/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization\\features\\addition\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|solutionrelative:organization\\features\\addition\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization\\features\\addition\\controller\\parishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|solutionrelative:organization\\features\\addition\\controller\\parishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization.test\\features\\addition\\controller\\employeescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|solutionrelative:organization.test\\features\\addition\\controller\\employeescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization.test\\features\\addition\\controller\\parishescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|solutionrelative:organization.test\\features\\addition\\controller\\parishescontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization.test\\features\\addition\\controller\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B922BF-B32C-4209-B9A4-AE621ECC5919}|Organization.Test\\Organization.Test.csproj|solutionrelative:organization.test\\features\\addition\\controller\\teamscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|c:\\users\\p00360795\\source\\repos\\organization\\organization\\features\\addition\\request\\updateoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE96B56F-E32E-4FAE-A914-EC9414E55223}|Organization\\Organization.csproj|solutionrelative:organization\\features\\addition\\request\\updateoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Employee [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrgDatabase/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "dbo.Employee [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-15T17:59:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Controller\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Organization\\Features\\Addition\\Controller\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Controller\\EmployeesController.cs",
+              "RelativeToolTip": "Organization\\Features\\Addition\\Controller\\EmployeesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:57:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParishesController.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Controller\\ParishesController.cs",
+              "RelativeDocumentMoniker": "Organization\\Features\\Addition\\Controller\\ParishesController.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Controller\\ParishesController.cs",
+              "RelativeToolTip": "Organization\\Features\\Addition\\Controller\\ParishesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:40:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateOffice.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Request\\UpdateOffice.cs",
+              "RelativeDocumentMoniker": "Organization\\Features\\Addition\\Request\\UpdateOffice.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization\\Features\\Addition\\Request\\UpdateOffice.cs",
+              "RelativeToolTip": "Organization\\Features\\Addition\\Request\\UpdateOffice.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:29:01.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\TeamsControllerTest.cs",
+              "RelativeDocumentMoniker": "Organization.Test\\Features\\Addition\\Controller\\TeamsControllerTest.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\TeamsControllerTest.cs",
+              "RelativeToolTip": "Organization.Test\\Features\\Addition\\Controller\\TeamsControllerTest.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:16:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParishesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\ParishesControllerTest.cs",
+              "RelativeDocumentMoniker": "Organization.Test\\Features\\Addition\\Controller\\ParishesControllerTest.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\ParishesControllerTest.cs",
+              "RelativeToolTip": "Organization.Test\\Features\\Addition\\Controller\\ParishesControllerTest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwEAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T20:16:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\EmployeesControllerTest.cs",
+              "RelativeDocumentMoniker": "Organization.Test\\Features\\Addition\\Controller\\EmployeesControllerTest.cs",
+              "ToolTip": "C:\\Users\\P00360795\\source\\repos\\Organization\\Organization.Test\\Features\\Addition\\Controller\\EmployeesControllerTest.cs",
+              "RelativeToolTip": "Organization.Test\\Features\\Addition\\Controller\\EmployeesControllerTest.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAIwHQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:24:43.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
