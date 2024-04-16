@@ -281,3 +281,4 @@ C:\Users\P00360795\source\repos\Organization\Organization\bin\Debug\net8.0\xunit
 C:\Users\P00360795\source\repos\Organization\Organization\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\P00360795\source\repos\Organization\Organization\bin\Debug\net8.0\xunit.core.dll
 C:\Users\P00360795\source\repos\Organization\Organization\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\P00360795\source\repos\Organization\Organization\obj\Debug\net8.0\Organization.sourcelink.json

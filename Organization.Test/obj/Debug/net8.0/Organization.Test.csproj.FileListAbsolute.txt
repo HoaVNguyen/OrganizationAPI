@@ -369,3 +369,4 @@ C:\Users\P00360795\source\repos\Organization\Organization.Test\obj\Debug\net8.0\
 C:\Users\P00360795\source\repos\Organization\Organization.Test\obj\Debug\net8.0\Organization.Test.pdb
 C:\Users\P00360795\source\repos\Organization\Organization.Test\obj\Debug\net8.0\Organization.Test.genruntimeconfig.cache
 C:\Users\P00360795\source\repos\Organization\Organization.Test\obj\Debug\net8.0\ref\Organization.Test.dll
+C:\Users\P00360795\source\repos\Organization\Organization.Test\obj\Debug\net8.0\Organization.Test.sourcelink.json

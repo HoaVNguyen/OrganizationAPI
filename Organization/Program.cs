@@ -2,6 +2,9 @@ using AutoMapper;
 using FluentValidation;
 using Organization.Domain.Entity;
 using Organization.Features.Addition.Map;
+using Organization.Features.EmployeeFeatures.Map;
+using Organization.Features.OfficeFeatures.Map;
+using Organization.Features.ParishFeatures;
 using Organization.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,7 +21,10 @@ builder.Services.AddValidatorsFromAssemblyContaining<EmployeeValidator>();
 
 var mapperConfig = new MapperConfiguration(mc =>
 {
-    mc.AddProfile(new MappingProfile());
+    mc.AddProfile(new EmployeeMappingProfile());
+    mc.AddProfile(new OfficeMappingProfile());
+    mc.AddProfile(new ParishMappingProfile());
+    mc.AddProfile(new TeamMappingProfile());
 });
 
 IMapper mapper = mapperConfig.CreateMapper();

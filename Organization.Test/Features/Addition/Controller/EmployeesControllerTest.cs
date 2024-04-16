@@ -5,9 +5,9 @@ using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 using Organization.Domain.Entity;
-using Organization.Features.Addition.Controller;
-using Organization.Features.Addition.DTO;
-using Organization.Features.Addition.Request;
+using Organization.Features.EmployeeFeatures.Controller;
+using Organization.Features.EmployeeFeatures.DTO;
+using Organization.Features.EmployeeFeatures.Request;
 using Xunit;
 using Assert = Xunit.Assert;
 
