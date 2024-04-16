@@ -11,7 +11,7 @@ using Organization.Features.OfficeFeatures.Request;
 using Xunit;
 using Assert = Xunit.Assert;
 
-namespace Organization.Test.Features.Addition.Controller
+namespace Organization.Test.Features.OfficeFeatures.Controller
 {
     public class OfficesControllerTest
     {

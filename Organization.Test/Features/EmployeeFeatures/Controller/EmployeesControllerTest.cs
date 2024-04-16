@@ -11,7 +11,7 @@ using Organization.Features.EmployeeFeatures.Request;
 using Xunit;
 using Assert = Xunit.Assert;
 
-namespace Organization.Test.Features.Addition.Controller
+namespace Organization.Test.Features.EmployeeFeatures.Controller
 {
     public class EmployeesControllerTest
     {
